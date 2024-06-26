@@ -7,6 +7,6 @@ Neste repositório, você vai encontrar todo o material utilizado nos vídeos so
 > Introdução:
 
 > Aulas:
-> - (001): Bibliotecas Básicas
+> - 001: Bibliotecas Básicas
 
 > Exercícios:
