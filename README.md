@@ -4,6 +4,9 @@ Neste repositório, você vai encontrar todo o material utilizado nos vídeos so
 
 ### Vídeos:
 
+> Introdução:
+
 > Aulas:
+> (001) Bibliotecas Básicas
 
 > Exercícios:
