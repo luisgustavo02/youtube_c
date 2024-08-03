@@ -8,5 +8,6 @@ Neste repositório, você vai encontrar todo o material utilizado nos vídeos so
 
 > Aulas:
 > - 001: Bibliotecas Básicas
+> - 002: Função main()
 
 > Exercícios:
