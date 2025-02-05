@@ -8,12 +8,10 @@ Acesse abaixo as playlists dos vídeos:
 
 ### Vídeos:
 
-> Introdução:
-
 > Aulas:
-> - 001: Bibliotecas Básicas
-> - 002: Função main()
-> - 003: Introdução a Variáveis
+> - 001: [Bibliotecas Básicas](https://www.youtube.com/watch?v=xIl9nNWNbY8)
+> - 002: [Função main](https://www.youtube.com/watch?v=0PGxa3Gh1LM)
+> - 003: [Introdução a Variáveis](https://www.youtube.com/watch?v=xlIGp7ZmYCI)
 
 > Exercícios:
 > - 02: 3 Números em Ordem Crescente
