@@ -6,7 +6,8 @@ Neste repositório, você vai encontrar todo o material utilizado nos vídeos so
 
 > Introdução:
 
-> Aulas ([Clique aqui para acessar a playlist!](https://www.youtube.com/playlist?list=PLwqXASipA2M39pVqirF99Yd7weTn8psVe)):
+> Aulas
+([Playlist no YouTube](https://www.youtube.com/playlist?list=PLwqXASipA2M39pVqirF99Yd7weTn8psVe)):
 > - 001: Bibliotecas Básicas
 > - 002: Função main()
 > - 003: Introdução a Variáveis
