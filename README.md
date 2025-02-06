@@ -14,4 +14,4 @@ Acesse abaixo as playlists dos vídeos:
 > - 003: [Introdução a Variáveis](https://www.youtube.com/watch?v=xlIGp7ZmYCI)
 
 > Exercícios:
-> - 02: 3 Números em Ordem Crescente
+> - 02: [3 Números em Ordem Crescente](https://www.youtube.com/watch?v=F1HnZQGxiK0&list=PLwqXASipA2M066eMNICuNZgf1WpFrSbFu)
